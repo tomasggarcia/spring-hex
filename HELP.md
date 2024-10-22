@@ -1,5 +1,11 @@
 # Getting Started
 
+
+mvn clean compile
+
+mvn spring-boot:run
+
+
 ### Ejecutar estos comandos para probar la app
 
 
